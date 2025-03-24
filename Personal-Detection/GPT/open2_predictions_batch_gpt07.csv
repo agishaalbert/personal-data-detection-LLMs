@@ -1,0 +1,117 @@
+Feature,batch_gpt_prediction
+Unnamed:_0,False
+Date,False
+AveragePrice,False
+Total_Volume,False
+4046,False
+4225,False
+4770,False
+Total_Bags,False
+Small_Bags,False
+Large_Bags,False
+XLarge_Bags,False
+type,False
+year,False
+region,False
+still_alive,True
+age,True
+pericardial,True
+fractional,True
+epss,True
+lvdd,True
+wall_score,True
+wall_index,False
+alive_at_1,True
+class,True
+Species,False
+Length1,False
+Length2,False
+Length3,False
+Height,False
+Width,False
+Sex,False
+binaryClass,False
+X,False
+Y,False
+month,False
+day,False
+FFMC,False
+DMC,False
+DC,False
+ISI,False
+temp,False
+RH,False
+wind,False
+rain,False
+area,False
+Timestamp,False
+Bid_Open,False
+Bid_High,False
+Bid_Low,False
+Bid_Close,False
+Bid_Volume,False
+Ask_Open,False
+Ask_High,False
+Ask_Low,False
+Ask_Close,False
+Ask_Volume,False
+Class,False
+Sepal.Length,False
+Sepal.Width,False
+Petal.Length,False
+Petal.Width,False
+Species.1,False
+movie,False
+category,False
+year.1,False
+worldwide gross ($m),False
+% budget recovered,False
+critics % score,False
+audience % score,False
+audience vs critics % deviance,False
+budget,False
+domestic gross ($m),False
+international gross ($m),False
+opening weekend ($m),False
+second weekend ($m),False
+1st vs 2nd weekend drop off,False
+% gross from opening weekend,False
+{% gross from domestic: false},False
+{% gross from international: false},False
+{% budget opening weekend: false},False
+VendorID,False
+store_and_fwd_flag,False
+RatecodeID,False
+passenger_count,False
+extra,False
+mta_tax,False
+tolls_amount,False
+improvement_surcharge,False
+total_amount,False
+trip_type,False
+tip_amount,False
+Speaker Number,True
+Sex.1,True
+Feature 0,False
+Feature 1,False
+Feature 2,False
+Feature 3,False
+Feature 4,False
+Feature 5,False
+Feature 6,False
+Feature 7,False
+Feature 8,False
+Feature 9,False
+binaryClass.1,False
+fixed.acidity,False
+volatile.acidity,False
+citric.acid,False
+residual.sugar,False
+chlorides,False
+free.sulfur.dioxide,False
+total.sulfur.dioxide,False
+density,False
+pH,False
+sulphates,False
+alcohol,False
+{quality: false},False

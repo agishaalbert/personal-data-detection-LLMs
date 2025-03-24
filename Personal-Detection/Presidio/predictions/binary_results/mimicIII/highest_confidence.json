@@ -1,0 +1,1 @@
+{"row_id": "DATE_TIME", "hadm_id": "PHONE_NUMBER", "icustay_id": "US_DRIVER_LICENSE", "dbsource": "PERSON", "prev_careunit": "PERSON", "curr_careunit": "PERSON", "intime": "DATE_TIME", "outtime": "DATE_TIME"}

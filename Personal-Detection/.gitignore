@@ -1,0 +1,47 @@
+#datasets that can be downloaded online (provide links)
+WikiTablesCollection/
+Simon_Faker/
+Sherlock-VizNet/
+DeSSI_v2
+dessi_capped_format
+dessi_cleaned
+OpenAIAPIKey.txt
+#kaggle_datasets
+absenteeism
+adult_census
+agriculture
+bank_marketing
+diabetes
+graduate_admissions
+heart_disease
+house_price
+indian_companies
+indian_liver
+phishing_email
+pixar
+student_performance
+titanic
+used_car
+#openml datasets
+DATASETBANK
+FitBit_HeartRate
+Amazon_Prime_Fiction
+Oilst_Customers_Dataset
+TVS_Loan_Default
+APL_20_24
+company_quality_and_valuation_finance
+CSM 
+HousingPrices
+mango_detection_australia
+#openml datasets 2
+Avocado-Prices-(Augmented)
+echoMonths
+fishcatch
+forest_fires
+FOREX_chfjpy-minute-Close
+iris
+Marvel_Movies_Dataset
+nyc-taxi-green-dec-2016
+vowel
+wine_quality
+

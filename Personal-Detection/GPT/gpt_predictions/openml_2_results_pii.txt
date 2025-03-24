@@ -1,0 +1,117 @@
+
+{'Unnamed:_0': false}
+{'Date': False}
+{'AveragePrice': False}
+{'Total_Volume': False}
+{'4046': false}
+{'4225': False}
+{'4770': False}
+{'Total_Bags': False}
+{'Small_Bags': False}
+{'Large_Bags': False}
+```json{"XLarge_Bags": false}```
+{'type': false}
+{'year': False}
+{'region': False}
+{'still_alive': false}
+{'age': false}
+{'pericardial': False}
+{'fractional': False}
+{'epss': false}
+{'lvdd': False}
+```json{"wall_score": false}```
+{'wall_index': False}
+{'alive_at_1': false}
+{'class': false}
+{'Species': False}
+{Length1: false}
+{Length2: false}
+{Length3: false}
+{'Height': false}
+{'Width': false}
+{'Sex': false}
+{'binaryClass': false}
+{'X': False}
+{'Y': False}
+{'month': false}
+{'day': false}
+{'FFMC': false}
+{'DMC': False}
+{'DC': false}
+{'ISI': false}
+{'temp': false}
+{'RH': False}
+{'wind': false}
+{'rain': false}
+{'area': False}
+{'Timestamp': false}
+{'Bid_Open': False}
+{'Bid_High': false}
+{'Bid_Low': false}
+{'Bid_Close': False}
+{'Bid_Volume': False}
+{'Ask_Open': False}
+{'Ask_High': False}
+{'Ask_Low': false}
+{'Ask_Close': False}
+{'Ask_Volume': False}
+{'Class': False}
+{'Sepal.Length': False}
+{'Sepal.Width': False}
+{'Petal.Length': False}
+{'Petal.Width': False}
+{'Species.1': false}
+{'movie': False}
+{'category': False}
+{'year.1': false}
+{'worldwide gross ($m)': False}
+{'% budget recovered': false}
+{'critics % score': false}
+{'audience % score': False}
+{'audience vs critics % deviance': False}
+{'budget': false}
+{'domestic gross ($m)': False}
+{'international gross ($m)': False}
+{'opening weekend ($m)': False}
+{'second weekend ($m)': False}
+{'1st vs 2nd weekend drop off': false}
+{'% gross from opening weekend': False}
+{'% gross from domestic': False}
+{'% gross from international': False}
+{'% budget opening weekend': False}
+{'VendorID': false}
+{'store_and_fwd_flag': false}
+{'RatecodeID': false}
+{'passenger_count': false}
+{'extra': False}
+{'mta_tax': false}
+{'tolls_amount': false}
+{'improvement_surcharge': false}
+{'total_amount': false}
+{'trip_type': False}
+{'tip_amount': false}
+{'Speaker Number': true}
+{'Sex.1': false}
+{'Feature 0': false}
+{'Feature 1': False}
+{'Feature 2': false}
+{'Feature 3': false}
+{'Feature 4': False}
+{'Feature 5': false}
+{'Feature 6': false}
+{'Feature 7': false}
+{'Feature 8': false}
+{'Feature 9': false}
+{'binaryClass.1': false}
+{'fixed.acidity': False}
+{'volatile.acidity': False}
+{'citric.acid': False}
+{'residual.sugar': False}
+{'chlorides': False}
+{'free.sulfur.dioxide': false}
+{'total.sulfur.dioxide': False}
+{ 'density': false }
+{'pH': False}
+{sulphates: false}
+{'alcohol': false}
+{quality: false}

@@ -1,0 +1,143 @@
+
+{'User ID': True}
+{'Name': True}
+{'Email Address': True}
+{'Username': true}
+{'Date of Birth': true}
+{'Gender': false}
+{'Location': false}
+{'Membership Start Date': false}
+{'Membership End Date': false}
+{'Subscription Plan': false}
+{'Payment Information': False}
+{'Renewal Status': false}
+{'Usage Frequency': False}
+{'Purchase History': False}
+{'Favorite Genres': false}
+{'Devices Used': False}
+{'Engagement Metrics': False}
+{'Feedback/Ratings': false}
+{'Customer Support Interactions': false}
+{'team_playing': False}
+{'opponent': false}
+{'is_home': False}
+{'target': False}
+{"Year": false}
+{'Month': false}
+{'Day': False}
+{'Hour': false}
+{'Referee': true}
+{'team_playing_ft_goals_rolling_mean': false}
+{'team_playing_ht_goals_rolling_mean': False}
+{'team_playing_total_shots_rolling_mean': false}
+{'team_playing_shots_on_target_rolling_mean': False}
+{'team_playing_fouls_committed_rolling_mean': False}
+{'team_playing_corners_won_rolling_mean': false}
+{'team_playing_yellow_cards_rolling_mean': false}
+{'team_playing_red_cards_rolling_mean': false}
+{'opponent_ft_goals_rolling_mean': false}
+{'opponent_ht_goals_rolling_mean': false}
+{'opponent_total_shots_rolling_mean': False}
+{'opponent_shots_on_target_rolling_mean': False}
+{'opponent_fouls_committed_rolling_mean': false}
+{'opponent_corners_won_rolling_mean': false}
+{'opponent_yellow_cards_rolling_mean': false}
+{'opponent_red_cards_rolling_mean': false}
+{'target_rolling_mean': false}
+{'Date': False}
+{'company': false}
+{'mcap': false}
+{'operating margin': false}
+{'net debt / ebit': false}
+{'roe': false}
+{'croic': false}
+{'p/fcf': false}
+{'revenues': False}
+{'ev/fcf': false}
+{'total_score': False}
+{'gross margin': False}
+{'Year.1': false}
+{'Ratings': False}
+{'Genre': False}
+{'Gross': False}
+{'Budget': false}
+{'Screens': False}
+{'Sequel': false}
+{'Sentiment': false}
+{'Views': false}
+{'Likes': False}
+{'Dislikes': false}
+{'Comments': false}
+{'Aggregate.Followers': false}
+{'CustomerID': true}
+{'Age': false}
+{'Months as a Customer': False}
+{'Number of Products': False}
+{'Average Balance Feed Index': false}
+{'Personal Debt to Equity Ratio': False}
+{'Has Bad Payment Record': false}
+{'Marital Status': false}
+{'Age Youngest Child': false}
+{'Number of Workers in Household': false}
+{'Income': False}
+{'Payed the Personal Loan': false}
+{'Id': True}
+{'Time': False}
+{'Value': False}
+{'Unnamed: 0': False}
+{'Address': True}
+{'Zip': false}
+{'Price': False}
+{'Area': false}
+{'Room': false}
+{'Lon': False}
+{'Lat': False}
+{'image_path': false}
+{'height': False}
+{'width': false}
+{'image_id': false}
+{'bbox': false}
+{'area': false}
+{'iscrowd': False}
+{'ignore': false}
+{'segmentation': False}
+{'category_id': False}
+{'category_name': false}
+{'annotation_id': false}
+{'customer_id': True}
+{'customer_unique_id': True}
+{'customer_zip_code_prefix': false}
+{'customer_city': false}
+{'customer_state': false}
+{'V1': True}
+{'V2': false}
+{'V3': False}
+{'V4': False}
+{'V5': false}
+{'V6': False}
+{'V7': False}
+{'V8': False}
+{'V9': False}
+{'V10': False}
+{'V11': False}
+{'V12': False}
+{'V13': false}
+{'V14': false}
+{'V15': False}
+{'V16': True}
+{'V17': False}
+{'V18': False}
+{'V19': False}
+{'V20': False}
+{'V21': False}
+{V22: false}
+{'V23': False}
+{'V24': False}
+{'V25': False}
+{'V26': false}
+{'V27': False}
+{'V28': False}
+{'V29': False}
+{V30: false}
+{V31: false}
+{'V32': false}
