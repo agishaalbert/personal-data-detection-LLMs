@@ -1,0 +1,247 @@
+
+{'ID': True}
+{'Reason for absence': False}
+{'Month of absence': False}
+{'Day of the week': false}
+{'Seasons': false}
+{'Transportation expense': false}
+{'Distance from Residence to Work': False}
+{'Service time': False}
+{'Age': False}
+{'Work load Average/day ': False}
+{'Hit target': False}
+{'Disciplinary failure': False}
+{'Education': False}
+{'Son': false}
+{'Social drinker': false}
+{'Social smoker': false}
+{'Pet': false}
+{'Weight': False}
+{'Height': False}
+{'Body mass index': False}
+{'Absenteeism time in hours': False}
+{'age': false}
+{'workclass': False}
+{'fnlwgt': false}
+{'education': False}
+{'education.num': False}
+{'marital.status': false}
+{'occupation': False}
+{'relationship': False}
+{'race': false}
+{'sex': false}
+{'capital.gain': false}
+{'capital.loss': False}
+{'hours.per.week': False}
+{'native.country': false}
+{'income': false}
+{'Year': False}
+{'Location': false}
+{'Area': false}
+{'Rainfall': False}
+{'Temperature': False}
+{'Soil type': false}
+{'Irrigation': false}
+{'yeilds': False}
+{'Humidity': False}
+{'Crops': False}
+{'price': False}
+{'Season': False}
+{'age.1': false}
+{'job': false}
+{'marital': False}
+{'education.1': false}
+{'default': false}
+{'housing': False}
+{'loan': False}
+{'contact': False}
+{'month': False}
+{'day_of_week': False}
+{'duration': False}
+{'campaign': false}
+{'pdays': False}
+{'previous': false}
+{'poutcome': False}
+{'emp.var.rate': False}
+{'cons.price.idx': False}
+{'cons.conf.idx': False}
+{'euribor3m': False}
+{'nr.employed': False}
+{'y': false}
+{'Age.1': False}
+{'Gender': false}
+{'Polyuria': False}
+{'Polydipsia': False}
+{'sudden weight loss': False}
+{'weakness': False}
+{'Polyphagia': False}
+{'Genital thrush': false}
+{'visual blurring': False}
+{'Itching': False}
+{'Irritability': False}
+{'delayed healing': False}
+{'partial paresis': False}
+{'muscle stiffness': False}
+{'Alopecia': False}
+{'Obesity': False}
+{'class': false}
+{'Serial No.': False}
+{'GRE Score': False}
+{'TOEFL Score': false}
+{'University Rating': false}
+{'SOP': False}
+{'LOR ': false}
+{'CGPA': False}
+{'Research': False}
+{'Chance of Admit ': False}
+{'id': True}
+{'age.2': False}
+{'sex.1': False}
+{'dataset': False}
+{'cp': False}
+{'trestbps': False}
+{'chol': False}
+{'fbs': False}
+{'restecg': False}
+{'thalch': False}
+{'exang': False}
+{'oldpeak': False}
+{'slope': False}
+{'ca': False}
+{'thal': False}
+{'num': False}
+{'fullAddress': True}
+{'postcode': False}
+{'country': false}
+{'outcode': False}
+{'latitude': False}
+{'longitude': False}
+{'bathrooms': False}
+{'bedrooms': False}
+{'floorAreaSqM': False}
+{'livingRooms': False}
+{'tenure': False}
+{'propertyType': False}
+{'currentEnergyRating': False}
+{'rentEstimate_lowerPrice': False}
+{'rentEstimate_currentPrice': False}
+{'rentEstimate_upperPrice': False}
+{'saleEstimate_lowerPrice': False}
+{'saleEstimate_currentPrice': False}
+{'saleEstimate_upperPrice': False}
+{'saleEstimate_confidenceLevel': False}
+{'saleEstimate_ingestedAt': False}
+{'saleEstimate_valueChange.numericChange': False}
+{'saleEstimate_valueChange.percentageChange': False}
+{'saleEstimate_valueChange.saleDate': False}
+{'history_date': False}
+{'history_price': False}
+{'history_percentageChange': False}
+{'history_numericChange': False}
+{'CORPORATE_IDENTIFICATION_NUMBER': False}
+{'COMPANY_NAME': False}
+{'COMPANY_STATUS': false}
+{'COMPANY_CLASS': false}
+{'COMPANY_CATEGORY': False}
+{'COMPANY_SUB_CATEGORY': False}
+{'DATE_OF_REGISTRATION': false}
+{'REGISTERED_STATE': false}
+{'AUTHORIZED_CAP': False}
+{'PAIDUP_CAPITAL': False}
+```json{  "INDUSTRIAL_CLASS": false}```
+{ 'PRINCIPAL_BUSINESS_ACTIVITY_AS_PER_CIN': false }
+{'REGISTERED_OFFICE_ADDRESS': True}
+{'REGISTRAR_OF_COMPANIES': False}
+{EMAIL_ADDR: true}
+{'LATEST_YEAR_ANNUAL_RETURN': False}
+{'LATEST_YEAR_FINANCIAL_STATEMENT': false}
+{'Age.2': false}
+{'Gender.1': false}
+{'Total_Bilirubin': False}
+{'Direct_Bilirubin': False}
+{'Alkaline_Phosphotase': false}
+{'Alamine_Aminotransferase': False}
+{'Aspartate_Aminotransferase': False}
+{'Total_Protiens': False}
+{'Albumin': False}
+{'Albumin_and_Globulin_Ratio': False}
+{'Dataset': false}
+{'sender': True}
+{'receiver': True}
+{'date': false}
+{'subject': false}
+{'body': False}
+{ "label": false }
+{ 'urls': false }
+{'movie': False}
+{'date_released': False}
+{'year_released': False}
+{'length_min': False}
+{  "plot_summary": false}
+{'director': True}
+{'writer': True}
+{'main_characters': False}
+{'type_of_characters': False}
+{    "main_voice_actors": true}
+{'opening_weekend_box_office_sales': False}
+{'total_worldwide_gross_sales': False}
+{'rotten_tomatoes_rating': False}
+{'imdb_rating': False}
+{ "movie_genre": false }
+{'movie_rating': False}
+{'school': False}
+{'sex.2': false}
+{'age.3': false}
+{ 'address': false }
+{'famsize': False}
+{ 'Pstatus': false }
+{'Medu': false}
+{'Fedu': False}
+{ 'Mjob': false }
+{'Fjob': false}
+{'reason': False}
+{'guardian': false}
+{'traveltime': false}
+{'studytime': false}
+{'failures': False}
+{'schoolsup': false}
+{famsup: false}
+{ 'paid': false }
+{ 'activities': false }
+{nursery: false}
+{ 'higher': false }
+{ 'internet': false }
+{'romantic': false}
+{'famrel': False}
+{'freetime': False}
+{'goout': False}
+{'Dalc': False}
+{'Walc': False}
+{'health': false}
+{'absences': false}
+{'G1': False}
+{'G2': False}
+{'G3': false}
+{'PassengerId': false}
+{'Survived': False}
+{'Pclass': false}
+{'Name': true}
+{Sex: false}
+{'Age.3': false}
+{'SibSp': false}
+{'Parch': false}
+{'Ticket': false}
+{'Fare': False}
+{'Cabin': False}
+{'Embarked': false}
+{'Brand': False}
+{'model': False}
+{'Year.1': false}
+{'Age.4': False}
+{'kmDriven': False}
+{'Transmission': False}
+{'Owner': False}
+{'FuelType': false}
+{'PostedDate': false}
+{'AdditionInfo': False}
+{'AskPrice': False}

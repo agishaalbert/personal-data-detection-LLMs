@@ -1,0 +1,772 @@
+{
+    "mimicIII_0_0": {
+        "f1": 0.3076923076923077,
+        "precision": 0.36363636363636365,
+        "recall": 0.26666666666666666,
+        "accuracy": 0.6687116564417178,
+        "roc_auc": 0.5443502824858757
+    },
+    "mimicIII_0_10": {
+        "f1": 0.08333333333333333,
+        "precision": 0.6666666666666666,
+        "recall": 0.044444444444444446,
+        "accuracy": 0.7300613496932515,
+        "roc_auc": 0.517984934086629
+    },
+    "mimicIII_0_20": {
+        "f1": 0.08333333333333333,
+        "precision": 0.6666666666666666,
+        "recall": 0.044444444444444446,
+        "accuracy": 0.7300613496932515,
+        "roc_auc": 0.517984934086629
+    },
+    "mimicIII_0_30": {
+        "f1": 0.0425531914893617,
+        "precision": 0.5,
+        "recall": 0.022222222222222223,
+        "accuracy": 0.7239263803680982,
+        "roc_auc": 0.5068738229755179
+    },
+    "mimicIII_0_40": {
+        "f1": 0.0425531914893617,
+        "precision": 0.5,
+        "recall": 0.022222222222222223,
+        "accuracy": 0.7239263803680982,
+        "roc_auc": 0.5068738229755179
+    },
+    "mimicIII_0_50": {
+        "f1": 0.0425531914893617,
+        "precision": 0.5,
+        "recall": 0.022222222222222223,
+        "accuracy": 0.7239263803680982,
+        "roc_auc": 0.5068738229755179
+    },
+    "mimicIII_0_60": {
+        "f1": 0.0425531914893617,
+        "precision": 0.5,
+        "recall": 0.022222222222222223,
+        "accuracy": 0.7239263803680982,
+        "roc_auc": 0.5068738229755179
+    },
+    "mimicIII_0_70": {
+        "f1": 0.0425531914893617,
+        "precision": 0.5,
+        "recall": 0.022222222222222223,
+        "accuracy": 0.7239263803680982,
+        "roc_auc": 0.5068738229755179
+    },
+    "mimicIII_0_80": {
+        "f1": 0.0425531914893617,
+        "precision": 0.5,
+        "recall": 0.022222222222222223,
+        "accuracy": 0.7239263803680982,
+        "roc_auc": 0.5068738229755179
+    },
+    "mimicIII_0_90": {
+        "f1": 0.0425531914893617,
+        "precision": 0.5,
+        "recall": 0.022222222222222223,
+        "accuracy": 0.7239263803680982,
+        "roc_auc": 0.5068738229755179
+    },
+    "mimicIII_0.1_0": {
+        "f1": 0.2631578947368421,
+        "precision": 0.3225806451612903,
+        "recall": 0.2222222222222222,
+        "accuracy": 0.656441717791411,
+        "roc_auc": 0.5221280602636535
+    },
+    "mimicIII_0.1_10": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.1_20": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.1_30": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.1_40": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.1_50": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.1_60": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.1_70": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.1_80": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.1_90": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.2_0": {
+        "f1": 0.2631578947368421,
+        "precision": 0.3225806451612903,
+        "recall": 0.2222222222222222,
+        "accuracy": 0.656441717791411,
+        "roc_auc": 0.5221280602636535
+    },
+    "mimicIII_0.2_10": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.2_20": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.2_30": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.2_40": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.2_50": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.2_60": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.2_70": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.2_80": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.2_90": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.3_0": {
+        "f1": 0.2631578947368421,
+        "precision": 0.3225806451612903,
+        "recall": 0.2222222222222222,
+        "accuracy": 0.656441717791411,
+        "roc_auc": 0.5221280602636535
+    },
+    "mimicIII_0.3_10": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.3_20": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.3_30": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.3_40": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.3_50": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.3_60": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.3_70": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.3_80": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.3_90": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.4_0": {
+        "f1": 0.2631578947368421,
+        "precision": 0.3225806451612903,
+        "recall": 0.2222222222222222,
+        "accuracy": 0.656441717791411,
+        "roc_auc": 0.5221280602636535
+    },
+    "mimicIII_0.4_10": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.4_20": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.4_30": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.4_40": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.4_50": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.4_60": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.4_70": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.4_80": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.4_90": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.5_0": {
+        "f1": 0.24,
+        "precision": 0.3,
+        "recall": 0.2,
+        "accuracy": 0.6503067484662577,
+        "roc_auc": 0.5110169491525424
+    },
+    "mimicIII_0.5_10": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.5_20": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.5_30": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.5_40": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.5_50": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.5_60": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.5_70": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.5_80": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.5_90": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.6_0": {
+        "f1": 0.24,
+        "precision": 0.3,
+        "recall": 0.2,
+        "accuracy": 0.6503067484662577,
+        "roc_auc": 0.5110169491525424
+    },
+    "mimicIII_0.6_10": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.6_20": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.6_30": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.6_40": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.6_50": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.6_60": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.6_70": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.6_80": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.6_90": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.7_0": {
+        "f1": 0.24,
+        "precision": 0.3,
+        "recall": 0.2,
+        "accuracy": 0.6503067484662577,
+        "roc_auc": 0.5110169491525424
+    },
+    "mimicIII_0.7_10": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.7_20": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.7_30": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.7_40": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.7_50": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.7_60": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.7_70": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.7_80": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.7_90": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.8_0": {
+        "f1": 0.24,
+        "precision": 0.3,
+        "recall": 0.2,
+        "accuracy": 0.6503067484662577,
+        "roc_auc": 0.5110169491525424
+    },
+    "mimicIII_0.8_10": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.8_20": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.8_30": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.8_40": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.8_50": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.8_60": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.8_70": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.8_80": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.8_90": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7177914110429447,
+        "roc_auc": 0.4957627118644068
+    },
+    "mimicIII_0.9_0": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7239263803680982,
+        "roc_auc": 0.5
+    },
+    "mimicIII_0.9_10": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7239263803680982,
+        "roc_auc": 0.5
+    },
+    "mimicIII_0.9_20": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7239263803680982,
+        "roc_auc": 0.5
+    },
+    "mimicIII_0.9_30": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7239263803680982,
+        "roc_auc": 0.5
+    },
+    "mimicIII_0.9_40": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7239263803680982,
+        "roc_auc": 0.5
+    },
+    "mimicIII_0.9_50": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7239263803680982,
+        "roc_auc": 0.5
+    },
+    "mimicIII_0.9_60": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7239263803680982,
+        "roc_auc": 0.5
+    },
+    "mimicIII_0.9_70": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7239263803680982,
+        "roc_auc": 0.5
+    },
+    "mimicIII_0.9_80": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7239263803680982,
+        "roc_auc": 0.5
+    },
+    "mimicIII_0.9_90": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7239263803680982,
+        "roc_auc": 0.5
+    },
+    "mimicIII_1.0_0": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7239263803680982,
+        "roc_auc": 0.5
+    },
+    "mimicIII_1.0_10": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7239263803680982,
+        "roc_auc": 0.5
+    },
+    "mimicIII_1.0_20": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7239263803680982,
+        "roc_auc": 0.5
+    },
+    "mimicIII_1.0_30": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7239263803680982,
+        "roc_auc": 0.5
+    },
+    "mimicIII_1.0_40": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7239263803680982,
+        "roc_auc": 0.5
+    },
+    "mimicIII_1.0_50": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7239263803680982,
+        "roc_auc": 0.5
+    },
+    "mimicIII_1.0_60": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7239263803680982,
+        "roc_auc": 0.5
+    },
+    "mimicIII_1.0_70": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7239263803680982,
+        "roc_auc": 0.5
+    },
+    "mimicIII_1.0_80": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7239263803680982,
+        "roc_auc": 0.5
+    },
+    "mimicIII_1.0_90": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "accuracy": 0.7239263803680982,
+        "roc_auc": 0.5
+    }
+}

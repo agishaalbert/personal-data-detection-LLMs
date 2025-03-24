@@ -1,0 +1,247 @@
+Feature,batch_gpt_prediction
+ID,True
+Reason for absence,True
+Month of absence,False
+Day of the week,False
+Seasons,False
+Transportation expense,False
+Distance from Residence to Work,True
+Service time,True
+Age,True
+Work load Average/day,True
+Hit target,True
+Disciplinary failure,True
+Education,True
+Son,True
+Social drinker,True
+Social smoker,True
+Pet,True
+Weight,True
+Height,True
+Body mass index,True
+Absenteeism time in hours,True
+age,True
+workclass,True
+fnlwgt,True
+education,True
+education.num,True
+marital.status,True
+occupation,True
+relationship,True
+race,True
+sex,True
+capital.gain,True
+capital.loss,True
+hours.per.week,True
+native.country,True
+income,True
+Year,False
+Location,False
+Area,False
+Rainfall,False
+Temperature,False
+Soil type,False
+Irrigation,False
+yeilds,False
+Humidity,False
+Crops,False
+price,False
+Season,False
+age.1,True
+job,True
+marital,True
+education.1,True
+default,True
+housing,True
+loan,True
+contact,True
+month,False
+day_of_week,False
+duration,True
+campaign,True
+pdays,True
+previous,True
+poutcome,True
+emp.var.rate,False
+cons.price.idx,False
+cons.conf.idx,False
+euribor3m,False
+nr.employed,False
+y,True
+Age.1,True
+Gender,True
+Polyuria,True
+Polydipsia,True
+sudden weight loss,True
+weakness,True
+Polyphagia,True
+Genital thrush,True
+visual blurring,True
+Itching,True
+Irritability,True
+delayed healing,True
+partial paresis,True
+muscle stiffness,True
+Alopecia,True
+Obesity,True
+class,True
+Serial No.,False
+GRE Score,True
+TOEFL Score,True
+University Rating,False
+SOP,True
+LOR,True
+CGPA,True
+Research,True
+Chance of Admit,True
+id,True
+age.2,True
+sex.1,True
+dataset,False
+cp,True
+trestbps,True
+chol,True
+fbs,True
+restecg,True
+thalch,True
+exang,True
+oldpeak,True
+slope,True
+ca,True
+thal,True
+num,True
+fullAddress,True
+postcode,False
+country,False
+outcode,False
+latitude,False
+longitude,False
+bathrooms,False
+bedrooms,False
+floorAreaSqM,False
+livingRooms,False
+tenure,False
+propertyType,False
+currentEnergyRating,False
+rentEstimate_lowerPrice,False
+rentEstimate_currentPrice,False
+rentEstimate_upperPrice,False
+saleEstimate_lowerPrice,False
+saleEstimate_currentPrice,False
+saleEstimate_upperPrice,False
+saleEstimate_confidenceLevel,False
+saleEstimate_ingestedAt,False
+saleEstimate_valueChange.numericChange,False
+saleEstimate_valueChange.percentageChange,False
+saleEstimate_valueChange.saleDate,False
+history_date,False
+history_price,False
+history_percentageChange,False
+history_numericChange,False
+CORPORATE_IDENTIFICATION_NUMBER,False
+COMPANY_NAME,False
+COMPANY_STATUS,False
+COMPANY_CLASS,False
+COMPANY_CATEGORY,False
+COMPANY_SUB_CATEGORY,False
+DATE_OF_REGISTRATION,False
+REGISTERED_STATE,False
+AUTHORIZED_CAP,False
+PAIDUP_CAPITAL,False
+INDUSTRIAL_CLASS,False
+PRINCIPAL_BUSINESS_ACTIVITY_AS_PER_CIN,False
+REGISTERED_OFFICE_ADDRESS,False
+REGISTRAR_OF_COMPANIES,False
+EMAIL_ADDR,True
+LATEST_YEAR_ANNUAL_RETURN,False
+LATEST_YEAR_FINANCIAL_STATEMENT,False
+Age.2,True
+Gender.1,True
+Total_Bilirubin,True
+Direct_Bilirubin,True
+Alkaline_Phosphotase,True
+Alamine_Aminotransferase,True
+Aspartate_Aminotransferase,True
+Total_Protiens,True
+Albumin,True
+Albumin_and_Globulin_Ratio,True
+Dataset,True
+sender,True
+receiver,True
+date,False
+subject,False
+body,True
+label,False
+urls,False
+movie,False
+date_released,False
+year_released,False
+length_min,False
+plot_summary,False
+director,True
+writer,True
+main_characters,False
+type_of_characters,False
+main_voice_actors,True
+opening_weekend_box_office_sales,False
+total_worldwide_gross_sales,False
+rotten_tomatoes_rating,False
+imdb_rating,False
+movie_genre,False
+movie_rating,False
+school,True
+sex.2,True
+age.3,True
+address,True
+famsize,True
+Pstatus,True
+Medu,True
+Fedu,True
+Mjob,True
+Fjob,True
+reason,True
+guardian,True
+traveltime,True
+studytime,True
+failures,True
+schoolsup,True
+famsup,True
+paid,True
+activities,True
+nursery,True
+higher,True
+internet,True
+romantic,True
+famrel,True
+freetime,True
+goout,True
+Dalc,True
+Walc,True
+health,True
+absences,True
+G1,True
+{G2: true},False
+G3,True
+PassengerId,True
+Survived,True
+Pclass,False
+{Name: true},False
+Sex,True
+Age.3,True
+SibSp,True
+Parch,True
+Ticket,True
+Fare,False
+Cabin,True
+Embarked,True
+Brand,False
+model,False
+Year.1,False
+Age.4,False
+kmDriven,False
+Transmission,False
+Owner,True
+FuelType,False
+PostedDate,False
+AdditionInfo,False
+AskPrice,False

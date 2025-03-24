@@ -1,0 +1,1 @@
+{"encounter_id": "NRP", "patient_id": "PERSON", "birth_date": "DATE_TIME", "first_operation_code": "PERSON", "major_surgery": "PERSON", "age_at_visit": "CREDIT_CARD", "total_number_operations": "CREDIT_CARD", "total_opeartion_duration": "DATE_TIME"}

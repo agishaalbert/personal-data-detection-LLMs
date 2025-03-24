@@ -1,0 +1,143 @@
+Feature,batch_gpt_prediction
+User ID,True
+Name,True
+Email Address,True
+Username,True
+Date of Birth,True
+Gender,True
+Location,True
+Membership Start Date,True
+Membership End Date,True
+Subscription Plan,True
+Payment Information,True
+Renewal Status,True
+Usage Frequency,True
+Purchase History,True
+Favorite Genres,True
+Devices Used,True
+Engagement Metrics,True
+Feedback/Ratings,True
+Customer Support Interactions,True
+team_playing,False
+opponent,False
+is_home,False
+target,False
+Year,False
+Month,False
+Day,False
+Hour,False
+Referee,True
+team_playing_ft_goals_rolling_mean,False
+team_playing_ht_goals_rolling_mean,False
+team_playing_total_shots_rolling_mean,False
+team_playing_shots_on_target_rolling_mean,False
+team_playing_fouls_committed_rolling_mean,False
+team_playing_corners_won_rolling_mean,False
+team_playing_yellow_cards_rolling_mean,False
+team_playing_red_cards_rolling_mean,False
+opponent_ft_goals_rolling_mean,False
+opponent_ht_goals_rolling_mean,False
+opponent_total_shots_rolling_mean,False
+opponent_shots_on_target_rolling_mean,False
+opponent_fouls_committed_rolling_mean,False
+opponent_corners_won_rolling_mean,False
+opponent_yellow_cards_rolling_mean,False
+opponent_red_cards_rolling_mean,False
+target_rolling_mean,False
+Date,False
+company,False
+mcap,False
+operating margin,False
+net debt / ebit,False
+roe,False
+croic,False
+p/fcf,False
+revenues,False
+ev/fcf,False
+total_score,False
+gross margin,False
+Year.1,False
+Ratings,False
+Genre,False
+Gross,False
+Budget,False
+Screens,False
+Sequel,False
+Sentiment,False
+Views,False
+Likes,False
+Dislikes,False
+Comments,False
+Aggregate.Followers,True
+CustomerID,True
+Age,True
+Months as a Customer,True
+Number of Products,True
+Average Balance Feed Index,True
+Personal Debt to Equity Ratio,True
+Has Bad Payment Record,True
+Marital Status,True
+Age Youngest Child,True
+Number of Workers in Household,True
+Income,True
+Payed the Personal Loan,True
+Id,True
+Time,True
+Value,True
+Unnamed: 0,False
+Address,True
+Zip,False
+Price,False
+Area,False
+Room,False
+Lon,False
+Lat,False
+image_path,False
+height,False
+width,False
+image_id,False
+bbox,False
+area,False
+iscrowd,False
+ignore,False
+segmentation,False
+category_id,False
+category_name,False
+annotation_id,False
+customer_id,True
+customer_unique_id,True
+customer_zip_code_prefix,True
+customer_city,True
+customer_state,True
+V1,True
+V2,True
+{ 'V3': true },False
+V4,True
+V5,True
+V6,True
+V7,True
+V8,True
+V9,False
+V10,False
+V11,True
+V12,False
+V13,True
+{V14: true},False
+V15,True
+V16,True
+V17,True
+V18,True
+V19,True
+V20,True
+V21,True
+V22,True
+V23,True
+V24,True
+V25,True
+V26,True
+V27,True
+V28,True
+V29,True
+V30,True
+V31,True
+V32,True

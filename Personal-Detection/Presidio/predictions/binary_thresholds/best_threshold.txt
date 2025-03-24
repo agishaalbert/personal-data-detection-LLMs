@@ -1,0 +1,15 @@
+personal (approach/score/count):
+- dessi-mf:  Columnwise/0.1/20
+- test languages:   Rowwise1/0.1/20
+- kaggle:   Rowwise1/0.0/0
+- openml:   Rowwise1/0.1/50
+- openml 2:     Rowwise2/0.1/50
+- medical:      Rowwise1/0/0
+
+
+pii (approach/score/count):
+- dessi-mf:  Columnwise/0.9/0
+- test languages:   Columnwise/0/60
+- kaggle:   Columnwise/0.1/20
+- openml:   Columnwise/0.4/70
+- openml 2:  Columnwise/0.1/50   

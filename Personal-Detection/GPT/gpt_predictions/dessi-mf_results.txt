@@ -1,0 +1,547 @@
+
+```json{detected_classes: ['drink']}```
+{detected_classes: ['date']}
+{detected_classes: ['city']}
+{detected_classes: ['credit_card_provider']}
+```json{ "detected_classes": ["political_views"] }```
+{detected_classes: ['resolution']}
+```json{detected_classes: ['integer_number']}```
+{detected_classes: [dish]}
+{detected_classes: ['gender']}
+{detected_classes: ['iban']}
+{detected_classes: [credit_card_provider]}
+{detected_classes: ['phone_number']}
+{detected_classes: [company]}
+{detected_classes: ['phone_model']}
+{detected_classes: ['system_quality_attribute']}
+{detected_classes: ['religion/worldview']}
+{detected_classes: ['religion/worldview']}
+{'detected_classes': []}
+{detected_classes: ['credit_card_number']}
+{detected_classes: ['iban']}
+{detected_classes: [cpu]}
+{detected_classes: ['integer_number']}
+{detected_classes: [answer]}
+{detected_classes: ['blood_group']}
+{detected_classes: [job]}
+{detected_classes: ['credit_card_number']}
+{detected_classes: [color]}
+{detected_classes: ['full_name']}
+{detected_classes: ['political_views']}
+```json{  "detected_classes": ["blood_group"]}```
+{detected_classes: ['last_name']}
+{detected_classes: ['full_name']}
+{detected_classes: ['national_identification_number']}
+{detected_classes: ['graphics']}
+{detected_classes: ['manufacturer']}
+```json{detected_classes: ['phone_number']}```
+{detected_classes: ['last_name']}
+{detected_classes: ['company']}
+{detected_classes: [credit_card_provider]}
+```json{  "detected_classes": ["date", "national_identification_number"]}```
+{detected_classes: [word]}
+{detected_classes: ['duration']}
+```json{  "detected_classes": ["date"]}```
+{detected_classes: ['float_number']}
+```json{detected_classes: ['full_name', 'academic_degree/title']}```
+{detected_classes: ['nationality']}
+{detected_classes: ['longitude_and_latitude']}
+```json{detected_classes: ['programming_language']}```
+{detected_classes: []}
+{detected_classes: []}
+{detected_classes: [measure_unit]}
+```json{detected_classes: ['resolution']}```
+{detected_classes: ['email']}
+{detected_classes: [duration]}
+```json{  "detected_classes": ["user_agent"]}```
+{detected_classes: ['full_name']}
+{detected_classes: ['academic_degree/title']}
+```json{detected_classes: ['dish']}```
+{detected_classes: ['full_address']}
+{detected_classes: ['passport_number']}
+{detected_classes: ['currency']}
+{detected_classes: [date]}
+{detected_classes: ['blood_group']}
+```json{detected_classes: ['religion/worldview']}```
+{detected_classes: ['url']}
+{detected_classes: [gender]}
+```json{detected_classes: ['cpu']}```
+```json{detected_classes: ['full_name']}```
+{detected_classes: [manufacturer]}
+{detected_classes: ['national_identification_number']}
+{detected_classes: ['last_name']}
+{detected_classes: [company]}
+{detected_classes: ['SWIFT/BIC code']}
+```json{detected_classes: ['longitude_and_latitude']}```
+{detected_classes: ['nationality']}
+{detected_classes: ['graphics']}
+{detected_classes: [color]}
+{detected_classes: ['blood_group']}
+{detected_classes: ['blood_group']}
+{detected_classes: ['gpe']}
+{detected_classes: ['credit_card_number']}
+```json{detected_classes: ['dish']}```
+{detected_classes: [isbn]}
+{detected_classes: ['phone_number']}
+{detected_classes: ['SWIFT/BIC code']}
+```json{detected_classes: ['date']}```
+{detected_classes: ['phone_model']}
+{detected_classes: ['job']}
+{detected_classes: ['integer_number']}
+{detected_classes: ['political_views']}
+{detected_classes: ['gender']}
+{detected_classes: [integer_number]}
+{detected_classes: ['measure_unit']}
+{detected_classes: ['passport_number']}
+```json{  "detected_classes": ["credit_card_number"]}```
+{detected_classes: ['email']}
+{detected_classes: [float_number]}
+{detected_classes: [integer_number]}
+```json{detected_classes: ['isbn']}```
+{detected_classes: ['company']}
+{detected_classes: ['SWIFT/BIC code']}
+```json{  "detected_classes": ["email"]}```
+```json{  "detected_classes": ["resolution"]}```
+Based on the provided column data, which consists of addresses with street names, city/town names, and postal codes in different formats, this column corresponds to full addresses. Therefore, the appropriate classification is:{detected_classes: ['full_address']}
+{detected_classes: [float_number]}
+{detected_classes: ['user_agent']}
+{detected_classes: ['gender']}
+{detected_classes: ['SWIFT/BIC code']}
+{detected_classes: ['last_name']}
+{detected_classes: ['full_address']}
+{detected_classes: ['phone_number']}
+Based on the given values in the column 'P32fNMG', they appear to be floating-point numbers, which range significantly in magnitude and include both positive and negative values. Analyzing the semantic data classes provided, none of the options perfectly match the characteristics of floating-point numbers as described. - 'EAN_code', 'SWIFT/BIC code', 'credit_card_number', 'isbn', and similar codes consist of structured numerical strings or specific formats.- 'academic_degree/title', 'answer', 'blood_group', 'city', 'color', 'company', 'language', 'nationality', 'religion/worldview', 'sexuality', and similar are categorical and textual.- 'email', 'full_address', 'full_name', 'isbn', 'job', 'phone_number', 'url' and similar are typically string data with specific structures.- 'measure_unit' could relate to numerical values but usually involves strings or specific units specifiers.'float_number' fits well with the range and nature (decimal values, possible positive and negative values) of the dataset in 'P32fNMG'.Thus, the detected semantic data class is 'float_number'.```json{ "detected_classes": ["float_number"] }```
+{detected_classes: [full_address]}
+```json{detected_classes: ['duration']}```
+{detected_classes: ['national_identification_number']}
+{detected_classes: ['email']}
+{'detected_classes': ['duration']}
+{detected_classes: ['system_quality_attribute']}
+{detected_classes: ['city']}
+{detected_classes: ['measure_unit']}
+{detected_classes: ['credit_card_number']}
+```json{detected_classes: ['job']}```
+{detected_classes: ['phone_number']}
+{detected_classes: ['isbn']}
+{detected_classes: ['date']}
+```json{ "detected_classes": ["resolution"] }```
+{detected_classes: [currency]}
+```json{ "detected_classes": ["full_name"] }```
+{detected_classes: ['blood_group']}
+{detected_classes: ['email']}
+{detected_classes: [first_name]}
+{detected_classes: [job]}
+{detected_classes: [currency]}
+```json{  "detected_classes": ["url"]}```
+{detected_classes: [nationality]}
+{detected_classes: [city]}
+{detected_classes: ['programming_language']}
+{detected_classes: ['academic_degree/title']}
+```json{detected_classes: ['full_address']}```
+```json{  "detected_classes": ["email", "national_identification_number", "passport_number"]}```
+{detected_classes: ['full_address']}
+{detected_classes: ['user_agent']}
+{detected_classes: ['full_name']}
+```json{  "detected_classes": ["integer_number"]}```
+{detected_classes: ['measure_unit']}
+```json{  "detected_classes": ["user_agent"]}```
+{detected_classes: ['email']}
+{detected_classes: ['last_name']}
+{detected_classes: [currency]}
+{detected_classes: [color]}
+{detected_classes: ['drink']}
+{detected_classes: ['blood_group']}
+```json{  "detected_classes": ["longitude_and_latitude"]}```
+{detected_classes: ['first_name']}
+{detected_classes: ['religion/worldview']}
+{detected_classes: ['float_number']}
+{detected_classes: [color]}
+{detected_classes: []}
+{detected_classes: ['email', 'phone_number']}
+{detected_classes: [credit_card_provider]}
+{detected_classes: [gender]}
+{detected_classes: ['phone_model']}
+{detected_classes: ['full_name']}
+{detected_classes: ['last_name']}
+{detected_classes: ['academic_degree/title']}
+```json{  "detected_classes": ["graphics"]}```
+```json{ "detected_classes": ["phone_number"] }```
+{detected_classes: ['measure_unit']}
+{detected_classes: ['phone_number']}
+{detected_classes: [first_name]}
+{detected_classes: [color]}
+{detected_classes: ['integer_number']}
+{detected_classes: ['currency']}
+{detected_classes: ['url']}
+{detected_classes: [color]}
+```json{  "detected_classes": ["credit_card_number"]}```
+{detected_classes: ['full_name']}
+{detected_classes: ['float_number']}
+{'detected_classes': ['national_identification_number']}
+{detected_classes: [credit_card_number]}
+{detected_classes: ['system_quality_attribute']}
+{detected_classes: ['date']}
+{detected_classes: [float_number]}
+{detected_classes: [integer_number]}
+{detected_classes: ['longitude_and_latitude']}
+```json{detected_classes: ['national_identification_number']}```
+{detected_classes: ['integer_number']}
+```json{  "detected_classes": ["blood_group"]}```
+```json{detected_classes: ['measure_unit']}```
+{detected_classes: [company]}
+{detected_classes: [company]}
+```json{  "detected_classes": ["email"]}```
+{detected_classes: ['last_name']}
+{detected_classes: ['phone_number']}
+{detected_classes: [academic_degree/title]}
+{detected_classes: [credit_card_number]}
+{detected_classes: ['first_name']}
+{detected_classes: ['graphics']}
+{detected_classes: [nationality]}
+{detected_classes: [credit_card_number]}
+{detected_classes: [gender]}
+{detected_classes: [currency]}
+{detected_classes: [language]}
+{detected_classes: []}
+```json{  "detected_classes": ["national_identification_number", "passport_number", "date"]}```
+{detected_classes: ['company']}
+{detected_classes: ['graphics']}
+```json{detected_classes: ['phone_number']}```
+{detected_classes: [EAN_code]}
+```json{ "detected_classes": ["full_name"] }```
+{detected_classes: ['last_name']}
+{detected_classes: ['academic_degree/title']}
+```json{detected_classes: ['credit_card_provider']}```
+{detected_classes: ['integer_number']}
+{detected_classes: ['email']}
+{detected_classes: ['job']}
+{detected_classes: []}
+{detected_classes: ['religion/worldview']}
+{detected_classes: [credit_card_number]}
+{detected_classes: [company]}
+{detected_classes: ['phone_number']}
+{'detected_classes': ['SWIFT/BIC code']}
+{detected_classes: [cpu]}
+{detected_classes: ['first_name']}
+{detected_classes: ['blood_group']}
+{detected_classes: ['full_address']}
+{detected_classes: ['academic_degree/title']}
+{detected_classes: ['color']}
+{detected_classes: ['phone_model']}
+{detected_classes: [manufacturer]}
+{detected_classes: ['religion/worldview']}
+{detected_classes: ['dish']}
+{detected_classes: ['email']}
+{detected_classes: [nationality]}
+{'detected_classes': ['cpu']}
+{detected_classes: [integer_number]}
+{detected_classes: ['dish']}
+{detected_classes: [float_number]}
+{detected_classes: [first_name]}
+{detected_classes: [national_identification_number]}
+{detected_classes: ['credit_card_number']}
+{detected_classes: ['passport_number']}
+{detected_classes: ['race']}
+{detected_classes: ['language']}
+{detected_classes: ['phone_number']}
+```json{  "detected_classes": ["longitude_and_latitude"]}```
+{detected_classes: [full_address]}
+{detected_classes: [job]}
+{detected_classes: [color]}
+{detected_classes: ['color']}
+```json{  "detected_classes": ["phone_number"]}```
+{detected_classes: ['full_address']}
+{detected_classes: ['answer']}
+{detected_classes: [job]}
+{detected_classes: ['system_quality_attribute']}
+{detected_classes: ['EAN_code']}
+{detected_classes: ['programming_language']}
+```json{  "detected_classes": ["full_address"]}```
+{detected_classes: ['manufacturer']}
+{detected_classes: ['passport_number']}
+{detected_classes: ['graphics']}
+```json{detected_classes: ['phone_number']}```
+{detected_classes: ['email']}
+```json{detected_classes: [last_name]}```
+{detected_classes: ['system_quality_attribute']}
+{detected_classes: ['sexuality']}
+{detected_classes: ['full_name']}
+```json{ "detected_classes": ["religion/worldview"] }```
+{detected_classes: ['iban']}
+{detected_classes: [version]}
+{detected_classes: [float_number]}
+{detected_classes: ['full_name']}
+{detected_classes: ['phone_number', 'national_identification_number']}
+{detected_classes: ['national_identification_number']}
+```json{detected_classes: ['job']}```
+{detected_classes: [credit_card_number]}
+```json{detected_classes: []}```
+{detected_classes: ['isbn']}
+{detected_classes: [company]}
+{detected_classes: ['job']}
+{detected_classes: ['iban']}
+{detected_classes: ['last_name']}
+{detected_classes: ['iban']}
+{detected_classes: ['gender']}
+{detected_classes: [company]}
+{detected_classes: ['email']}
+{detected_classes: ['gender']}
+{detected_classes: ['user_agent']}
+{detected_classes: ['float_number']}
+```json{detected_classes: ['iban']}```
+```json{  "detected_classes": ["blood_group"]}```
+```json{detected_classes: ['passport_number']}```
+{detected_classes: ['blood_group']}
+{detected_classes: [SWIFT/BIC code]}
+{detected_classes: []}
+```json{detected_classes: ['company', 'last_name']}```
+{detected_classes: [manufacturer]}
+Based on the values provided in the column 'word_en_mimesis': ['foods', 'involving', 'birmingham', 'edwards', 'lord', 'throughout', 'crafts', 'tel', 'knows', 'al'], the data appears to consist of random English words. The potential semantic class for this column is 'word'.{detected_classes: ['word']}
+{detected_classes: [integer_number]}
+{detected_classes: ['national_identification_number']}
+```json{detected_classes: []}```
+```json{detected_classes: [word]}```
+```json{detected_classes: ['nationality']}```
+{detected_classes: ['job']}
+{detected_classes: ['full_name', 'academic_degree/title']}
+{detected_classes: ['company']}
+{detected_classes: []}
+{detected_classes: ['first_name']}
+{detected_classes: [manufacturer]}
+{detected_classes: ['isbn']}
+```json{  "detected_classes": ["job"]}```
+{detected_classes: ['programming_language']}
+{detected_classes: [drink]}
+{detected_classes: ['nationality']}
+```json{ "detected_classes": ["version"] }```
+{detected_classes: ['url']}
+{detected_classes: ['email', 'phone_number']}
+{detected_classes: ['first_name']}
+{detected_classes: ['resolution']}
+{detected_classes: ['blood_group']}
+{detected_classes: [color]}
+{detected_classes: [credit_card_number]}
+```json{detected_classes: ['duration']}```
+```json{ "detected_classes": ["city"] }```
+{detected_classes: []}
+{detected_classes: ['religion/worldview']}
+```json{  "detected_classes": ["programming_language"]}```
+{detected_classes: ['first_name']}
+{detected_classes: ['blood_group']}
+{detected_classes: [language]}
+{detected_classes: [word]}
+{detected_classes: ['language']}
+```json{  "detected_classes": ["phone_number"]}```
+{detected_classes: [credit_card_number]}
+{detected_classes: ['phone_number']}
+{detected_classes: ['user_agent']}
+{detected_classes: ['blood_group']}
+{detected_classes: ['cpu']}
+{detected_classes: ['gender']}
+{detected_classes: ['job']}
+{detected_classes: ['last_name']}
+```json{detected_classes: ['isbn']}```
+{detected_classes: [date]}
+```json{detected_classes: ['date']}```
+{detected_classes: ['drink']}
+{detected_classes: ['programming_language']}
+{detected_classes: [color]}
+{detected_classes: ['first_name']}
+{detected_classes: ['last_name']}
+```json{detected_classes: ['SWIFT/BIC code']}```
+{detected_classes: ['language']}
+```json{detected_classes: ['answer']}```
+```json{  "detected_classes": ["blood_group"]}```
+```json{detected_classes: ['dish']}```
+{detected_classes: ['full_address']}
+```json{detected_classes: ['isbn']}```
+{detected_classes: ['academic_degree/title']}
+{detected_classes: [version]}
+{detected_classes: ['email']}
+{detected_classes: ['political_views']}
+{detected_classes: [first_name]}
+{detected_classes: ['phone_model']}
+{detected_classes: ['company']}
+{detected_classes: ['full_address']}
+{detected_classes: ['job']}
+{detected_classes: ['user_agent']}
+{detected_classes: ['last_name']}
+```json{    "detected_classes": []}```
+{detected_classes: []}
+{detected_classes: ['phone_number']}
+```json{detected_classes: ['gender']}```
+{detected_classes: ['gender']}
+{detected_classes: [word]}
+{detected_classes: [language]}
+{detected_classes: [word]}
+{detected_classes: ['SWIFT/BIC code']}
+{detected_classes: ['currency']}
+{detected_classes: ['EAN_code']}
+{detected_classes: ['cpu']}
+```json{  "detected_classes": ["integer_number"]}```
+{detected_classes: ['last_name']}
+{detected_classes: ['full_name']}
+{detected_classes: [float_number]}
+{detected_classes: [float_number]}
+{detected_classes: ['email']}
+{detected_classes: ['measure_unit']}
+{detected_classes: ['phone_model']}
+{detected_classes: [answer]}
+```json{detected_classes: [company]}```
+{detected_classes: ['credit_card_number']}
+```json{detected_classes: ['longitude_and_latitude']}```
+{detected_classes: ['longitude_and_latitude']}
+{detected_classes: [duration]}
+```json{detected_classes: ['isbn']}```
+{detected_classes: ['url']}
+{detected_classes: ['full_name']}
+{detected_classes: ['phone_number']}
+{detected_classes: [answer]}
+```json{detected_classes: ['answer']}```
+{detected_classes: ['nationality']}
+{detected_classes: [first_name]}
+{detected_classes: ['company']}
+```json{detected_classes: ['system_quality_attribute']}```
+{detected_classes: ['resolution']}
+{detected_classes: ['isbn']}
+```json{ "detected_classes": ["national_identification_number", "date"] }```
+{detected_classes: ['manufacturer']}
+{detected_classes: ['isbn']}
+{detected_classes: []}
+{detected_classes: ['cpu']}
+```json{  "detected_classes": ["phone_number"]}```
+{detected_classes: ['job']}
+{detected_classes: ['academic_degree/title']}
+{detected_classes: ['language']}
+{detected_classes: ['national_identification_number', 'phone_number']}
+{detected_classes: ['full_address']}
+{detected_classes: ['date']}
+{detected_classes: [dish]}
+```json{detected_classes: ['manufacturer']}```
+{detected_classes: ['email']}
+{detected_classes: [city]}
+{detected_classes: ['isbn']}
+{detected_classes: ['academic_degree/title']}
+```json{detected_classes: ['iban']}```
+```json{detected_classes: ['academic_degree/title']}```
+```json{  "detected_classes": ["system_quality_attribute"]}```
+{detected_classes: [city]}
+{detected_classes: ['email']}
+{'detected_classes': ['email']}
+```json{detected_classes: ['integer_number']}```
+```json{detected_classes: ['date']}```
+{detected_classes: ['gender']}
+{detected_classes: [job]}
+{detected_classes: ['credit_card_number']}
+{detected_classes: ['color']}
+{detected_classes: []}
+{detected_classes: ['nationality']}
+```json{detected_classes: ['academic_degree/title']}```
+{detected_classes: ['email']}
+{detected_classes: [drink]}
+{detected_classes: ['EAN_code']}
+{detected_classes: ['national_identification_number']}
+{detected_classes: [float_number]}
+{detected_classes: ['religion/worldview']}
+{detected_classes: ['longitude_and_latitude']}
+```json{  "detected_classes": ["city"]}```
+{detected_classes: [word]}
+{detected_classes: ['email']}
+{'detected_classes': ['url']}
+{detected_classes: [drink]}
+{detected_classes: [EAN_code]}
+{detected_classes: [duration]}
+{detected_classes: [full_address]}
+{detected_classes: [job]}
+```json{  "detected_classes": ["national_identification_number"]}```
+{detected_classes: ['url']}
+```json{detected_classes: ['isbn']}```
+{detected_classes: ['blood_group']}
+{detected_classes: [version]}
+{detected_classes: [national_identification_number]}
+```json{detected_classes: []}```
+{detected_classes: [city]}
+{detected_classes: ['iban']}
+{detected_classes: ['resolution']}
+{detected_classes: ['integer_number']}
+```json{  "detected_classes": ["answer"]}```
+{detected_classes: [gender]}
+{detected_classes: ['iban']}
+{detected_classes: [city]}
+{detected_classes: ['academic_degree/title']}
+{detected_classes: ['email', 'phone_number']}
+{detected_classes: ['url']}
+```json{  "detected_classes": ["programming_language"]}```
+{detected_classes: ['political_views']}
+```json{detected_classes: ['gender']}```
+{detected_classes: ['first_name']}
+{detected_classes: ['isbn']}
+```json{detected_classes: ['credit_card_provider']}```
+{detected_classes: ['nationality']}
+{detected_classes: [integer_number]}
+```json{  "detected_classes": ["phone_model"]}```
+{detected_classes: [answer]}
+{detected_classes: [first_name]}
+{detected_classes: ['email']}
+{detected_classes: ['full_address']}
+{detected_classes: ['graphics']}
+{detected_classes: [currency]}
+{detected_classes: [float_number]}
+```json{detected_classes: ['last_name']}```
+{detected_classes: ['gender']}
+{detected_classes: ['iban']}
+{detected_classes: ['isbn']}
+{detected_classes: ['duration']}
+```json{detected_classes: ['credit_card_provider']}```
+```json{detected_classes: ['sexuality']}```
+{detected_classes: ['user_agent']}
+```json{detected_classes: ['credit_card_provider']}```
+{detected_classes: ['drink']}
+```json{detected_classes: ['longitude_and_latitude']}```
+```json{detected_classes: ['measure_unit']}```
+{detected_classes: []}
+{detected_classes: ['cpu']}
+```json{  "detected_classes": ["credit_card_number"]}```
+{detected_classes: ['full_name']}
+```json{  "detected_classes": ["credit_card_number"]}```
+{detected_classes: ['academic_degree/title']}
+{detected_classes: ['race']}
+{detected_classes: ['id_card']}
+{detected_classes: ['color']}
+{detected_classes: ['dish']}
+{detected_classes: [graphics]}
+{detected_classes: [system_quality_attribute]}
+{detected_classes: [programming_language]}
+{detected_classes: ['gender']}
+```json{detected_classes: []}```
+{detected_classes: [first_name]}
+```json{  "detected_classes": ["resolution"]}```
+{detected_classes: ['isbn']}
+{detected_classes: [first_name]}
+{detected_classes: ['EAN_code']}
+{detected_classes: ['political_views']}
+{detected_classes: ['academic_degree/title']}
+{detected_classes: []}
+{detected_classes: [academic_degree/title]}
+{detected_classes: [drink]}
+```json{  "detected_classes": ["political_views"]}```
+{detected_classes: [word]}
+{detected_classes: [full_address]}
+{detected_classes: ['last_name']}
+{detected_classes: ['email', 'phone_number']}
+{detected_classes: [gender]}
+```json{detected_classes: ['float_number']}```
+{detected_classes: ['phone_number']}
+```json{detected_classes: ['isbn']}```
+{detected_classes: ['phone_number']}
+{detected_classes: ['passport_number']}
+{detected_classes: ['email', 'national_identification_number']}
+```json{  "detected_classes": ["academic_degree/title"]}```
+{detected_classes: ['longitude_and_latitude']}
+{detected_classes: ['language']}
+{detected_classes: ['political_views']}
+```json{detected_classes: ['last_name']}```
+{detected_classes: ['phone_model']}
+{detected_classes: [gender]}
+{detected_classes: ['religion/worldview']}
+{detected_classes: ['manufacturer']}
