@@ -10,27 +10,6 @@ path_params = {
     "model_name": "capped_10_16",
 }
 
-# path_params = {
-#     "path": './',
-#     "cache_dir": 'huggingface',
-#     "standard_data_path": 'datasets/all_data_multi_standard/',
-#     "data_path": 'datasets/all_data_multi_prepared/',
-#     "results_path": "results",
-#     "test_file": 'test.txt',  # for eval, try also: test_other, data_model_2
-#     "model_path": 'models',
-#     "model_name": "capped_10_16",
-# }
-
-# path_params = {
-#     "path": './',
-#     "cache_dir": 'huggingface',
-#     "standard_data_path": 'datasets/all_data_pii_standard/',
-#     "data_path": 'datasets/all_data_pii_prepared/',
-#     "results_path": "results",
-#     "test_file": 'test.txt',  # for eval, try also: test_other, data_model_2
-#     "model_path": 'models',
-#     "model_name": "capped_10_16",
-# }
 
 # test on kaggle 
 # path_params = {
@@ -82,31 +61,6 @@ path_params = {
 #     "model_name": "capped_10_16",
 # }
 
-#Test on Medical 
-# path_params = {
-#     "path": './',
-#     "cache_dir": 'huggingface',
-#     "standard_data_path": 'datasets/medical_personal_standard/',
-#     "data_path": 'datasets/medical_personal_prepared/',
-#     "results_path": "results",
-#     "test_file": 'test.txt',  # for eval, try also: test_other, data_model_2
-#     "model_path": 'models',
-#     "model_name": "capped_10_16",
-# }
-
-#MIMIC DATASET
-# path_params = {
-#     "path": './',
-#     "cache_dir": 'huggingface',
-#     "standard_data_path": 'datasets/MIMICIII_personal_standard/',
-#     "data_path": 'datasets/MIMICIII_personal_prepared/',
-#     "results_path": "results",
-#     "test_file": 'test.txt',  # for eval, try also: test_other, data_model_2
-#     "model_path": 'models',
-#     "model_name": "capped_10_16",
-# }
-
-
 # MIMIC final DATASET
 # path_params = {
 #     "path": './',
@@ -119,19 +73,6 @@ path_params = {
 #     "model_name": "capped_10_16",
 # }
 
-  
-
-#MIMIC Refined DATASET
-# path_params = {
-#     "path": './',
-#     "cache_dir": 'huggingface',
-#     "standard_data_path": 'datasets/MIMICIII_100_personal_standard/',
-#     "data_path": 'datasets/MIMICIII_100_personal_prepared/',
-#     "results_path": "results",
-#     "test_file": 'test.txt',  # for eval, try also: test_other, data_model_2
-#     "model_path": 'models',
-#     "model_name": "capped_10_16",
-# }
 
 #openML all DATASET
 # path_params = {
