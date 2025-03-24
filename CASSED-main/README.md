@@ -45,7 +45,7 @@ The CASSED project is desribed on [Github](https://github.com/VKuzina/CASSED) wi
 
 **CASSED**
 
-Capped is a model for the detection of sensitive data in structured datasets, more specificly, for the multilabel problem of columns in database tables.
+Cassed is a model for the detection of sensitive data in structured datasets, more specificly, for the multilabel problem of columns in database tables.
 
 The model uses the BERT model#, through the Flair library#, and has an accompanying dataset on kaggle called DeSSI (Dataset for Structured Sensitive Information)#.
 
