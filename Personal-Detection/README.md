@@ -1,7 +1,6 @@
-# Automated Detection of Personal Data – Bachelor Thesis
+# Automated Detection of Personal Data Using Large Language Models (LLMs)
 
-**Author**: Luca Rück (Matrikelnr. 85764)  
-**Submission Date**: 01.02.2025
+**Authors**: Albert Agisha N., Luca Rück, Martin Heckmann
 
 ---
 
