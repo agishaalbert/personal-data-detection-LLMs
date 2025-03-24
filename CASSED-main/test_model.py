@@ -1,59 +1,3 @@
-# import os
-# import shutil
-# import torch
-# import json
-# from torch.optim.lr_scheduler import OneCycleLR
-# from flair.embeddings import TransformerDocumentEmbeddings
-# from flair.data import Corpus
-# from flair.datasets import ClassificationCorpus
-# from extended_flair.extended_text_classifier import TextClassifier
-# # from flair.models import TextClassifier
-# from flair.trainers import ModelTrainer
-# from config.run_config import path_params, model_params
-# import pandas as pd
-
-
-# # Path preparation
-# PATH_PREFIX = path_params['path']
-# DATA_FOLDER = os.path.join(PATH_PREFIX, path_params['data_path'])
-
-# MODEL_PATH = os.path.join(PATH_PREFIX, path_params['model_path'], path_params['model_name'])
-
-# if not os.path.isdir(MODEL_PATH):
-#     os.makedirs(MODEL_PATH)
-
-# CACHE_DIR = os.path.join(MODEL_PATH, path_params['cache_dir']) if 'cache_dir' in path_params else None
-
-# if os.path.isdir(CACHE_DIR):
-#     shutil.rmtree(CACHE_DIR)
-# os.makedirs(CACHE_DIR)
-
-# # 1. Corpus preparation
-# # Make sure the corpus is in the CAPPED sentence format by running prepare_data.py
-# corpus: Corpus = ClassificationCorpus(
-#     DATA_FOLDER,
-#     test_file='test.txt',
-#     dev_file='dev.txt',
-#     train_file='train.txt'
-# )
-
-# classifier = TextClassifier.load(MODEL_PATH+'/best-model.pt')
-
-# result, y_true, y_pred, target_names, labels = classifier.evaluate(
-#     corpus.test,
-#     gold_label_type='class',
-#     mini_batch_size=model_params["mini_batch_size"],
-#     return_all = True
-# )
-
-# print(result)
-# pd.DataFrame(y_pred).to_csv("test_results/predicted.csv", index=False)
-# pd.DataFrame(y_true).to_csv("test_results/true.csv", index=False)
-# targets = pd.DataFrame(target_names)
-# labels = pd.DataFrame(labels)
-# pd.concat([targets, labels], axis=1).to_csv("test_results/target_names.csv", index=False)
-
-
 import os
 import shutil
 import torch
@@ -116,17 +60,6 @@ test_end_time = time.time()
 test_elapsed_time = test_end_time - test_start_time
 
 print(result)
-
-
-# def multilabel_balanced_accuracy(y_true, y_pred):
-#     recall_per_class = recall_score(y_true, y_pred, average=None)
-#     return np.mean(recall_per_class)
-
-# Balanced_accuracy = multilabel_balanced_accuracy(y_true, y_pred)
-
-# # Balanced_accuracy = balanced_accuracy_score(y_true, y_pred)
- 
-# print(f'Balanced Accuracy: {Balanced_accuracy}') 
 
 # Assuming y_true and y_pred are your multilabel matrices
 y_true_single = np.argmax(y_true, axis=1)
