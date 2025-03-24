@@ -1,0 +1,26 @@
+create conda env with version 3.8
+
+first:
+pip install torch==1.9.0+cu111 torchvision==0.10.0+cu111 torchaudio==0.9.0 -f https://download.pytorch.org/whl/torch_stable.html
+second:
+pip install -r requirements.txt 
+
+
+During testing at train_clasifier the attribute error module torch has no attribute from_buffer appeared
+
+Solution updating torch:
+pip install torch==2.0.1+cu117 torchvision==0.15.2+cu117 -f https://download.pytorch.org/whl/torch_stable.html
+
+
+
+Installing collected packages: mpmath, lit, sympy, MarkupSafe, cmake, jinja2, triton, torch, torchvision
+  Attempting uninstall: torch
+    Found existing installation: torch 1.9.0+cu111
+    Uninstalling torch-1.9.0+cu111:
+      Successfully uninstalled torch-1.9.0+cu111
+  Attempting uninstall: torchvision
+    Found existing installation: torchvision 0.10.0+cu111
+    Uninstalling torchvision-0.10.0+cu111:
+      Successfully uninstalled torchvision-0.10.0+cu111
+ERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.
+torchaudio 0.9.0 requires torch==1.9.0, but you have torch 2.0.1+cu117 which is incompatible.
