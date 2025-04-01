@@ -5,4 +5,4 @@ This repository contains code and methodology for detecting personal data in str
 
 ### Major Contributions
 
-- **[@lucarueck](https://github.com/lucarueck)**: Wrote the major part of the code and contributed significantly to the development of this project.  
+- **[@lucarueck](https://github.com/lucarueck)**: Wrote the some part of the code fully and contributed significantly to the development of this project.  
